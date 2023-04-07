@@ -1,7 +1,7 @@
 <div align="center">
 
 <br />
-I mostly code in C#, sometimes in other languages.
+I mostly code in Rust and C#, sometimes in other languages.
 
 <br />
 
