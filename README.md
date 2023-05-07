@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alawapr.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alawapr&label=Profile%20views&color=0e75b6&style=flat" alt="alawapr" /> </p>
 
-- 🔭 I’m currently working on [Novaline and it's injector.](https://novaline.club/)
-
 - 🌱 I’m currently learning **Rust.**
 
 - 📫 How to reach me **message me on Discord: Alawapr#4968.**
