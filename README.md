@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Rust.**
 
-- 📫 **Message me on Discord: alawapr#0**
+- 📫 **Message me on Discord: alawaprdisc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
